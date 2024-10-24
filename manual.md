@@ -86,4 +86,27 @@ Para copiar la ruta de la imagen, le damos click derecho a la imagen en nuestro 
 ![Gato Gamba](./gamba.jpg)
 
 -----------
-### 
+### Poner código
+Para poner código, escribimos la palabra entre ` .
+
+Ejemplo: `hola`
+
+-----------
+### Hacer citas
+Para hacer una cita, debemos poner delante tel texto un >.
+
+Ejemplo: 
+> Hola
+
+-----------
+
+### Como hacer tablas
+Para hacer una tabla, debemos primero crear la cantidad de columndas poniendo una barra ( | ) seguido de ---- y ( | ), y asi vamos consiguiendo el efecto de casilla que queremos, haremos esto cuantas veces como queramos para las columnas.
+
+Para que la primera fila esté en negrita, pondremos cada palabra entre |.
+
+Ejemplo:
+
+|Columna 1|Columna 2|Columna 3|
+|---------|---------|---------|
+|Lunes|Martes|Miercoles|
